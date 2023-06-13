@@ -1,0 +1,39 @@
+
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+label{
+    font-size:12px;
+    width: 100%;
+    margin: 0px;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Start{
+    background-color:black;
+    color:white;
+    padding: 10px;
+    font-size: 15px;
+    border-radius:15px;
+}
+
+#status,#baby
+{
+font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    font-family: monospace;
+}
+
+canvas{
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px;
+    margin-top: 60px;
+}
